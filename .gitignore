@@ -1,3 +1,5 @@
 data/process/
 data/raw/
 .idea/
+model/vehicle_detection/last.pt
+model/yolov5s.pt
