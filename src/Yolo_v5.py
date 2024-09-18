@@ -1,6 +1,5 @@
-from ultralytics import YOLO
-import cv2
 import pathlib
+import cv2
 import yolov5
 
 # Handle path compatibility
